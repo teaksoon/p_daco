@@ -1,2 +1,10 @@
 # p_daco
 ARDUINO PROJECT - DIGITAL ALARM CLOCK OLED
+
+ARDUINO UNO
+
+6xTactile Button
+
+6x10KOhm Resistor
+
+1xSSD1306 OLED Module I2C ( 64 x 128 Pixel )
